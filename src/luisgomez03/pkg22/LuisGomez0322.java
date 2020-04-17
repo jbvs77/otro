@@ -11,7 +11,7 @@ public class LuisGomez0322 {
         Scanner s = new Scanner(System.in);
         System.out.println("Ingrese un numero: ");
         a1 = s.nextInt();
-        System.out.println("Ingrese otro numero: ");
+        System.out.println("Ingrese segundo numero: ");
         a2 = s.nextInt();
         System.out.println("La suma es: "+ b.suma(a1, a2));
         b.resta(a1, a2);
